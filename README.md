@@ -1,6 +1,6 @@
 ## Collab Gamer
 
-<img src=".github/logo.png" height="240px"/>
+<img src=".github/logo.png" />
 
 <br>
 <hr>
