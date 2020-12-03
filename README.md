@@ -13,7 +13,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/jairoevaristo/Estudy.git`
+1. Clone this repo using `https://github.com/jairoevaristo/project-collab-gamer.git`
 2. Run `yarn` or `npm install` to install dependencies
 3. Type the command `yarn start` or `npm run start` in the project directory to run the application<br />
 
